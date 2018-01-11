@@ -24,8 +24,8 @@ class VILLAGESGOLDEDITION_API UVillagesLowLevelFunctionLibrary : public UBluepri
 public:
 		UFUNCTION(BlueprintCallable, Category = "VillagesLowLevel")
 		static UTexture2D* TextureFromWidget(UUserWidget *const Widget, const FVector2D &DrawSize);
-		///void TextureFromWidget(UUserWidget *const Widget, const FVector2D &DrawSize, UTexture2D* outTexture);
 
-	
-	
+		UFUNCTION(BlueprintCallable, BlueprintPure, Category = "Replication")
+			static ENetRole GetActorRole(const AActor* Actor);
+		
 };

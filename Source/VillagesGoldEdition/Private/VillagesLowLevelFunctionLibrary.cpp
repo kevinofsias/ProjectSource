@@ -55,3 +55,12 @@ UTexture2D* UVillagesLowLevelFunctionLibrary::TextureFromWidget(UUserWidget *con
 	///outTexture = NULL;
 }
 
+ENetRole UVillagesLowLevelFunctionLibrary::GetActorRole(const AActor * Actor)
+{
+	if (IsValid(Actor))
+	{
+		return Actor->Role;
+	}
+
+	return ENetRole::ROLE_None;
+}
