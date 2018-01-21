@@ -18,7 +18,7 @@
 
 	{
 	"itemdefid" : 1001,
-	"type" : "playtimegenerator",
+	"type" : "item",
 	"display_type" : "Food & Drink",
 	"name" : "Croissant",
 	"name_color" : "FFFFFF",
@@ -26,11 +26,7 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/GeH7ZW3.png",
-	"icon_url_large": "https://i.imgur.com/GeH7ZW3.png",
-	"drop_interval" : 10,
-	"use_drop_window" : true,
-	"drop_window" : "1440",
-	"drop_max_per_window" : "10"
+	"icon_url_large": "https://i.imgur.com/GeH7ZW3.png"
 	}
 
 ]

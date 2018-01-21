@@ -85,15 +85,20 @@
 	{
 	"itemdefid" : 7,
 	"type" : "item",
-	"bundle" : "1000;1001x10",
+	"promo" : "manual",
 	"display_type" : "Item Package",
 	"name" : "The Welcome Box",
+	"description" : "Yes, you're welcome.",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/VCVwAmK.png",
-	"icon_url_large": "https://i.imgur.com/VCVwAmK.png"	
+	"icon_url_large": "https://i.imgur.com/VCVwAmK.png",
+	"drop_interval" : 60,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "3"	
 	}
 
 ]
