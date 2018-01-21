@@ -9,7 +9,9 @@
 	"bundle" : "1000;1001x20",
 	"name" : "The Welcome Box Bundle",
 	"exchange" : "7",
-	"hidden" : true	
+	"hidden" : true,
+	"icon_url": "https://i.imgur.com/cgMTJI8.png",
+	"icon_url_large": "https://i.imgur.com/cgMTJI8.png"	
 	},
 
 	{
@@ -18,6 +20,8 @@
 	"bundle" : "1001",
 	"name" : "Driver Gen",
 	"hidden" : false,
+	"icon_url": "https://i.imgur.com/cgMTJI8.png",
+	"icon_url_large": "https://i.imgur.com/cgMTJI8.png",
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : 1440,
