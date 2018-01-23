@@ -27,6 +27,48 @@
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/GeH7ZW3.png",
 	"icon_url_large": "https://i.imgur.com/GeH7ZW3.png"
+	},
+
+	{
+	"itemdefid" : 1002,
+	"type" : "item",
+	"display_type" : "Food & Drink",
+	"name" : "Mocha Coffee",
+	"description" : "Boost you day.",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/gaBVfHd.png",
+	"icon_url_large": "https://i.imgur.com/gaBVfHd.png"
+	},
+
+	{
+	"itemdefid" : 1003,
+	"type" : "item",
+	"display_type" : "Food & Drink",
+	"name" : "Black Coffee",
+	"description" : "Sleeping is for the weak.",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/UyLgxwh.png",
+	"icon_url_large": "https://i.imgur.com/UyLgxwh.png"
+	},
+
+	{
+	"itemdefid" : 1004,
+	"type" : "item",
+	"display_type" : "Food & Drink",
+	"name" : "Bottled Water",
+	"description" : "Trust me, it's clean.",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/wUVc5WN.png",
+	"icon_url_large": "https://i.imgur.com/wUVc5WN.png"
 	}
 
 ]

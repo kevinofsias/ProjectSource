@@ -9,7 +9,7 @@
 	"promo" : "manual",
 	"display_type" : "Currency",
 	"name" : "Labour Bond",
-	"description" : "This bond can be redeemed for 1,000 Kattas in all LittleArctic regions.",
+	"description" : "This bond can be redeemed for 10,000 Kattas in all LittleArctic regions.\n(Cannot used in Warzone)",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
@@ -22,18 +22,74 @@
 	"drop_max_per_window" : "10"
 	},
 
-{
+	{
 	"itemdefid" : 3001,
 	"type" : "item",
-	"display_type" : "Currency",
+	"display_type" : "Warzone Currency",
 	"name" : "War Bond",
-	"description" : "This bond can be redeemed for 1,000 Kattas in Warzone only. (Cannot created inside Warzone)",
+	"description" : "This bond can be redeemed for 10,000 Kattas in Warzone only.\n(Cannot issued inside Warzone)",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/83qzBLc.png",
 	"icon_url_large": "https://i.imgur.com/83qzBLc.png"
+	},
+
+	{
+	"itemdefid" : 3002,
+	"type" : "item",
+	"display_type" : "Currency",
+	"name" : "Business Bond",
+	"description" : "This bond can be redeemed for 1 Million Kattas in all LittleArctic regions.\n(Cannot used in Warzone)",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/iUQDLVl.png",
+	"icon_url_large": "https://i.imgur.com/iUQDLVl.png"
+	},
+
+	{
+	"itemdefid" : 3003,
+	"type" : "item",
+	"display_type" : "Currency",
+	"name" : "Government Fund",
+	"description" : "This fund can be redeemed for 100 Million Kattas in all LittleArctic regions.\nOnly faction leader or minister can redeem this fund for their faction.\n(Cannot used in Warzone)",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/3v0BYnI.png",
+	"icon_url_large": "https://i.imgur.com/3v0BYnI.png"
+	},
+
+	{
+	"itemdefid" : 3004,
+	"type" : "item",
+	"display_type" : "Warzone Currency",
+	"name" : "Kompany War Bond",
+	"description" : "This bond can be redeemed for 1 Million Kattas in Warzone only.\n(Cannot issued inside Warzone)",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/z4MRAlJ.png",
+	"icon_url_large": "https://i.imgur.com/z4MRAlJ.png"
+	},
+
+	{
+	"itemdefid" : 3005,
+	"type" : "item",
+	"display_type" : "Warzone Currency",
+	"name" : "Korps War Fund",
+	"description" : "This fund can be redeemed for 100 Million Kattas in Warzone only.\nOnly General or Sub-General can redeem this fund for their faction's army.\n(Cannot issued inside Warzone)",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/a1aToed.png",
+	"icon_url_large": "https://i.imgur.com/a1aToed.png"
 	}
 
 ]

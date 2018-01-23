@@ -73,6 +73,7 @@
 	"type" : "item",
 	"display_type" : "Item Package",
 	"name" : "The Controversial Box",
+	"description" : "Typically granted for a Guerilla-Server's Admin.",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
