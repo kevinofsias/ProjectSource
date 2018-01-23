@@ -22,7 +22,7 @@
 	"type" : "item",
 	"display_type" : "Miscellaneous",
 	"name" : "Food Ration Coupon",
-	"description" : "Our winter is longer than which you come from.",
+	"description" : "Our winter is longer than which you came from.",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
