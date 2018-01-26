@@ -14,8 +14,8 @@
 	"background_color" : "DDA373",
 	"tradable" : true,
 	"marketable" : true,
-	"icon_url": "https://i.imgur.com/gsrNurd.png",
-	"icon_url_large": "https://i.imgur.com/gsrNurd.png"	
+	"icon_url": "https://i.imgur.com/GgUUpIJ.png",
+	"icon_url_large": "https://i.imgur.com/GgUUpIJ.png"	
 	}
 
 ]
