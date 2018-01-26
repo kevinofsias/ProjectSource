@@ -6,6 +6,7 @@
 	{
 	"itemdefid" : 4000,
 	"type" : "item",
+	"exchange" : "3000x10",
 	"display_type" : "Miscellaneous",
 	"name" : "People's Car",
 	"description" : "The first vehicle that appears on The International Market.",
@@ -20,6 +21,7 @@
 	{
 	"itemdefid" : 4001,
 	"type" : "item",
+	"exchange" : "3000",
 	"display_type" : "Miscellaneous",
 	"name" : "Food Ration Coupon",
 	"description" : "Our winter is longer than which you came from.",
@@ -34,6 +36,7 @@
 	{
 	"itemdefid" : 4002,
 	"type" : "item",
+	"exchange" : "3000",
 	"display_type" : "Miscellaneous",
 	"name" : "Lottery",
 	"description" : "We wish you luck, ...next time.",

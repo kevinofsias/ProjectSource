@@ -26,6 +26,28 @@
 	"use_drop_window" : true,
 	"drop_window" : 1440,
 	"drop_max_per_window" : 10	
+	},
+
+	{
+	"itemdefid" : 2002,
+	"type" : "generator",
+	"exchange" : "4002",
+	"bundle" : "3002x1;1001x99",
+	"name" : "Lottery Gen",
+	"hidden" : false,
+	"icon_url": "https://i.imgur.com/cgMTJI8.png",
+	"icon_url_large": "https://i.imgur.com/cgMTJI8.png"
+	},
+
+	{
+	"itemdefid" : 2003,
+	"type" : "bundle",
+	"exchange" : "4001",
+	"bundle" : "1000;1001;1004;1002;1003",
+	"name" : "FoodCoupon Bundle",
+	"hidden" : false,
+	"icon_url": "https://i.imgur.com/cgMTJI8.png",
+	"icon_url_large": "https://i.imgur.com/cgMTJI8.png"
 	}
 
 ]
