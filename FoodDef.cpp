@@ -34,7 +34,7 @@
 	"type" : "item",
 	"display_type" : "Food & Drink",
 	"name" : "Mocha Coffee",
-	"description" : "Boost you day.",
+	"description" : "Boost your day.",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
