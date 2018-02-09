@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "Components/SkeletalMeshComponent.h"
-#include "StandInMeshCustom.generated.h"
+#include "SeatSMComponent.generated.h"
 
 /**
  * 
  */
-UCLASS(Blueprintable)
-class VILLAGESGOLDEDITION_API UStandInMeshCustom : public USkeletalMeshComponent
+UCLASS(Blueprintable, BlueprintType)
+class VILLAGESGOLDEDITION_API USeatSMComponent : public USkeletalMeshComponent
 {
 	GENERATED_BODY()
 	
