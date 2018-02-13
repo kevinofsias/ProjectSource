@@ -32,4 +32,12 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Game|Components|TankVehicleMovement")
 		void SetRightThrust(float RightThrust);
+
+
+	// Override ZKill
+	void FellOutOfWorld(const class UDamageType& dmgType) override;
+
+	UFUNCTION(BlueprintImplementableEvent)
+		void RedirectFellOutOfWorld();
+
 };

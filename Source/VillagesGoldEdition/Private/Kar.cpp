@@ -9,4 +9,7 @@ AKar::AKar(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitialize
 	
 }
 
-
+void AKar::FellOutOfWorld(const UDamageType & dmgType)
+{
+	RedirectFellOutOfWorld();
+}

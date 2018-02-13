@@ -32,3 +32,8 @@ void AVillagesCustomCHA::SetupPlayerInputComponent(UInputComponent* PlayerInputC
 
 }
 
+void AVillagesCustomCHA::FellOutOfWorld(const UDamageType & dmgType)
+{
+	RedirectFellOutOfWorld();
+}
+

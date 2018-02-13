@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
+#include "GameFramework/Actor.h"
 #include "VillagesCustomPC.generated.h"
 
 /**
@@ -18,5 +19,5 @@ public:
 
 		UFUNCTION(BlueprintImplementableEvent)
 		void PawnLeavingGame() override;
-	
+
 };

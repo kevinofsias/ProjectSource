@@ -49,6 +49,11 @@ void ATankVehicle::SetRightThrust(float RightThrust)
 	}
 }
 
+void ATankVehicle::FellOutOfWorld(const UDamageType & dmgType)
+{
+	RedirectFellOutOfWorld();
+}
+
 void ATankVehicle::SetLeftThrust(float LeftThrust)
 {
 	UWheeledVehicleMovementComponentTank* TankMovmentComponent = Cast<UWheeledVehicleMovementComponentTank>(GetVehicleMovement());

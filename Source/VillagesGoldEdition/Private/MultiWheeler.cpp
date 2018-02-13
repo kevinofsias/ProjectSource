@@ -8,3 +8,7 @@ AMultiWheeler::AMultiWheeler(const FObjectInitializer& ObjectInitializer) : Supe
 	
 }
 
+void AMultiWheeler::FellOutOfWorld(const UDamageType & dmgType)
+{
+	RedirectFellOutOfWorld();
+}

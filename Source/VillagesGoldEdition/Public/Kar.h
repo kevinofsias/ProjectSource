@@ -24,7 +24,11 @@ public:
 
 	AKar(const FObjectInitializer& ObjectInitializer);
 
+	// Override ZKill
+	void FellOutOfWorld(const class UDamageType& dmgType) override;
 
+	UFUNCTION(BlueprintImplementableEvent)
+		void RedirectFellOutOfWorld();
 	
 	
 };

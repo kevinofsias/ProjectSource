@@ -28,4 +28,11 @@ public:
 
 	
 	
+	// Override ZKill
+	void FellOutOfWorld(const class UDamageType& dmgType) override;
+
+	UFUNCTION(BlueprintImplementableEvent)
+		void RedirectFellOutOfWorld();
+	
+	
 };
