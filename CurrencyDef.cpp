@@ -61,7 +61,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/3v0BYnI.png",
-	"icon_url_large": "https://i.imgur.com/3v0BYnI.png"
+	"icon_url_large": "https://i.imgur.com/3v0BYnI.png",
+	"price_category" : "1;VLV3000"
 	},
 
 	{
@@ -89,7 +90,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/a1aToed.png",
-	"icon_url_large": "https://i.imgur.com/a1aToed.png"
+	"icon_url_large": "https://i.imgur.com/a1aToed.png",
+	"price_category" : "1;VLV3000"
 	}
 
 ]
