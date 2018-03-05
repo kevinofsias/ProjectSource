@@ -6,6 +6,7 @@
 	{
 	"itemdefid" : 4000,
 	"type" : "item",
+	"promo" : "manual",
 	"exchange" : "3000x10",
 	"display_type" : "Miscellaneous",
 	"name" : "People's Car",
@@ -15,12 +16,17 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/rOmteKU.png",
-	"icon_url_large": "https://i.imgur.com/rOmteKU.png"	
+	"icon_url_large": "https://i.imgur.com/rOmteKU.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"	
 	},
 
 	{
 	"itemdefid" : 4001,
 	"type" : "item",
+	"promo" : "manual",
 	"exchange" : "3000",
 	"display_type" : "Miscellaneous",
 	"name" : "Food Ration Coupon",
@@ -30,12 +36,17 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/GaVMV6x.png",
-	"icon_url_large": "https://i.imgur.com/GaVMV6x.png"	
+	"icon_url_large": "https://i.imgur.com/GaVMV6x.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"	
 	},
 
 	{
 	"itemdefid" : 4002,
 	"type" : "item",
+	"promo" : "manual",
 	"exchange" : "3000",
 	"display_type" : "Miscellaneous",
 	"name" : "Lottery",
@@ -45,7 +56,11 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/gjB9P7O.png",
-	"icon_url_large": "https://i.imgur.com/gjB9P7O.png"	
+	"icon_url_large": "https://i.imgur.com/gjB9P7O.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"	
 	}
 
 ]
