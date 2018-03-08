@@ -105,16 +105,16 @@
 	{
 	"itemdefid" : 247,
 	"type" : "item",
-	"display_type" : "Fuel",
-	"name" : "Red Oil",
-	"description" : "Some men just want to watch the world burn.",
+	"display_type" : "Very Special Flag Skin",
+	"name" : "Feline Pirate Flag",
+	"description" : "[color=white]Radioluminescence[/color]\nIt will illuminate after dusk.",
 	"name_color" : "FFFFFF",
 	"background_color" : "0062AFFF",
 	"tradable" : true,
 	"marketable" : true,
 	"Special" : true,
-	"icon_url": "https://i.imgur.com/NmnTRBE.png",
-	"icon_url_large": "https://i.imgur.com/NmnTRBE.png"	
+	"icon_url": "https://i.imgur.com/BqGAtka.png",
+	"icon_url_large": "https://i.imgur.com/BqGAtka.png"	
 	}
 
 ]
