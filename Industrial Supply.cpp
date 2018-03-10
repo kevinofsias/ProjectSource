@@ -118,6 +118,25 @@
 	},
 
 	{
+	"itemdefid" : 12006,
+	"type" : "item",
+	"promo" : "manual",
+	"display_type" : "Industrial Supply",
+	"name" : "Empty Container",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/pLkr4nX.png",
+	"icon_url_large": "https://i.imgur.com/pLkr4nX.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"
+	},
+
+	{
 	"itemdefid" : 12007,
 	"type" : "item",
 	"promo" : "manual",
@@ -757,6 +776,25 @@
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/EvzhHVb.png",
 	"icon_url_large": "https://i.imgur.com/EvzhHVb.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"
+	},
+
+	{
+	"itemdefid" : 12042,
+	"type" : "item",
+	"promo" : "manual",
+	"display_type" : "Industrial Supply",
+	"name" : "Empty Mini Container",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/xjRCjdV.png",
+	"icon_url_large": "https://i.imgur.com/xjRCjdV.png",
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",

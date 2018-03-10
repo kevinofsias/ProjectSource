@@ -117,6 +117,25 @@
 	"use_drop_window" : true,
 	"drop_window" : "1440",
 	"drop_max_per_window" : "1000"
+	},
+
+	{
+	"itemdefid" : 3006,
+	"type" : "item",
+	"promo" : "manual",
+	"display_type" : "Currency",
+	"name" : "Business Trip",
+	"description" : "[color=yellow]The trip agent will help you travel with your 100 Million Kattas across LittleArctic and Warzone.[/color]\n[color=red]But the agent charge you extra 200 Million Kattas.[/color]",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/GvZqgvm.png",
+	"icon_url_large": "https://i.imgur.com/GvZqgvm.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"
 	}
 
 ]
