@@ -19,7 +19,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:interest;currency:littlearctic"
 	},
 
 	{
@@ -38,7 +39,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:interest;currency:warzone"
 	},
 
 	{
@@ -57,7 +59,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:interest;currency:littlearctic"
 	},
 
 	{
@@ -77,7 +80,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:littlearctic;currency:government"
 	},
 
 	{
@@ -96,7 +100,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:interest;currency:warzone"
 	},
 
 	{
@@ -116,7 +121,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:warzone;currency:government"
 	},
 
 	{
@@ -135,7 +141,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"currency:littlearctic;currency:warzone"
 	}
 
 ]

@@ -13,7 +13,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/wkkhswf.png",
-	"icon_url_large": "https://i.imgur.com/wkkhswf.png"	
+	"icon_url_large": "https://i.imgur.com/wkkhswf.png",
+	"tags":"package:lootbox"	
 	},
 
 	{
@@ -26,7 +27,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/4UGLBR3.png",
-	"icon_url_large": "https://i.imgur.com/4UGLBR3.png"	
+	"icon_url_large": "https://i.imgur.com/4UGLBR3.png",
+	"tags":"package:lootbox"	
 	},
 
 	{
@@ -39,7 +41,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/lKB7460.png",
-	"icon_url_large": "https://i.imgur.com/lKB7460.png"	
+	"icon_url_large": "https://i.imgur.com/lKB7460.png",
+	"tags":"package:lootbox"	
 	},
 
 	{
@@ -52,7 +55,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/tTSfs2s.png",
-	"icon_url_large": "https://i.imgur.com/tTSfs2s.png"	
+	"icon_url_large": "https://i.imgur.com/tTSfs2s.png",
+	"tags":"package:lootbox"	
 	},
 
 	{
@@ -65,7 +69,8 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/C87IPBh.png",
-	"icon_url_large": "https://i.imgur.com/C87IPBh.png"	
+	"icon_url_large": "https://i.imgur.com/C87IPBh.png",
+	"tags":"package:lootbox"	
 	},
 
 	{
@@ -80,7 +85,8 @@
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/NrYbKjG.png",
 	"icon_url_large" : "https://i.imgur.com/NrYbKjG.png",
-	"price_category" : "1;VLV2000"	
+	"price_category" : "1;VLV2000",
+	"tags":"package:lootbox"	
 	},
 	
 	{
@@ -99,7 +105,8 @@
 	"drop_interval" : 60,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "3"	
+	"drop_max_per_window" : "3",
+	"tags":"package:lootbox"	
 	},
 
 	{
@@ -114,7 +121,8 @@
 	"marketable" : true,
 	"Special" : true,
 	"icon_url": "https://i.imgur.com/BqGAtka.png",
-	"icon_url_large": "https://i.imgur.com/BqGAtka.png"	
+	"icon_url_large": "https://i.imgur.com/BqGAtka.png",
+	"tags":"cosmetic:flag"	
 	}
 
 ]

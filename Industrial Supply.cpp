@@ -19,7 +19,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -38,7 +39,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -57,7 +59,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -76,7 +79,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -95,7 +99,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -114,7 +119,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -133,7 +139,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
 	},
 
 	{
@@ -152,7 +159,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -171,7 +179,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -190,7 +199,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -209,7 +219,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -228,7 +239,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -247,7 +259,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -266,7 +279,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -285,7 +299,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -304,7 +319,28 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
+	},
+
+	{
+	"itemdefid" : 12016,
+	"type" : "item",
+	"promo" : "manual",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Container",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/SWB288p.png",
+	"icon_url_large": "https://i.imgur.com/SWB288p.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000",
+	"tags":"industry:goods"
 	},
 
 	{
@@ -323,7 +359,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -342,7 +379,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -361,7 +399,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -380,7 +419,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -399,7 +439,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -418,7 +459,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -437,7 +479,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -456,7 +499,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -475,7 +519,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -494,7 +539,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -513,7 +559,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -532,7 +579,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -551,7 +599,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -570,7 +619,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -589,7 +639,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -608,7 +659,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -627,7 +679,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -646,7 +699,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -665,7 +719,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -684,7 +739,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -703,7 +759,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -722,7 +779,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -741,7 +799,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:petroleum"
 	},
 
 	{
@@ -760,7 +819,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:water"
 	},
 
 	{
@@ -779,7 +839,8 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:water"
 	},
 
 	{
@@ -798,7 +859,28 @@
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000"
+	"drop_max_per_window" : "1000",
+	"tags":"industry:container"
+	},
+
+	{
+	"itemdefid" : 12043,
+	"type" : "item",
+	"promo" : "manual",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Small Container",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/bRlGhnE.png",
+	"icon_url_large": "https://i.imgur.com/bRlGhnE.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000",
+	"tags":"industry:goods"
 	}
 
 ]
