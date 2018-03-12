@@ -868,7 +868,7 @@
 	"type" : "item",
 	"promo" : "manual",
 	"display_type" : "Industrial Supply",
-	"name" : "Goods Small Container",
+	"name" : "Goods Mini Container",
 	"description" : "",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
