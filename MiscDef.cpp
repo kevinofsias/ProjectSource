@@ -63,6 +63,48 @@
 	"drop_window" : "1440",
 	"drop_max_per_window" : "1000",
 	"tags":"package:lottery"	
+	},
+
+	{
+	"itemdefid" : 4003,
+	"type" : "item",
+	"promo" : "manual",
+	"exchange" : "3000",
+	"display_type" : "Miscellaneous",
+	"name" : "Test Company Share",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "CCCC00FF",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/cCxKodS.png",
+	"icon_url_large": "https://i.imgur.com/cCxKodS.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000"
+	},
+
+	{
+	"itemdefid" : 4004,
+	"type" : "generator",
+	"promo" : "manual",
+	"exchange" : "3000",
+	"display_type" : "Miscellaneous",
+	"name" : "Test Share Gen",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "CCCC00FF",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/cgMTJI8.png",
+	"icon_url_large": "https://i.imgur.com/cgMTJI8.png",
+	"drop_interval" : 1,
+	"use_drop_window" : true,
+	"drop_window" : "1440",
+	"drop_max_per_window" : "1000",
+	"bundle" : "4003",
+	"tags" : "company:HAILINT"
 	}
 
 ]
