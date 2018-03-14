@@ -69,12 +69,11 @@
 	"itemdefid" : 4003,
 	"type" : "item",
 	"promo" : "manual",
-	"exchange" : "3000",
 	"display_type" : "Miscellaneous",
-	"name" : "Test Company Share",
-	"description" : "",
+	"name" : "Company Share",
+	"description" : "[color=red]WARNING : Trading or Selling this item will erase all share informations stored in it.[/color]\n[color=yellow]Hold shares of a specific company.[/color]\nMake transaction at Stock Market.",
 	"name_color" : "FFFFFF",
-	"background_color" : "CCCC00FF",
+	"background_color" : "DDA373",
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/cCxKodS.png",
@@ -87,24 +86,21 @@
 
 	{
 	"itemdefid" : 4004,
-	"type" : "generator",
+	"type" : "item",
 	"promo" : "manual",
-	"exchange" : "3000",
 	"display_type" : "Miscellaneous",
-	"name" : "Test Share Gen",
-	"description" : "",
+	"name" : "Stang Wallet",
+	"description" : "[color=red]WARNING : Trading or Selling this item will erase all money informations stored in it.[/color]\n[color=yellow]Can hold up to 1 Million Kattas to use in any regions.[/color]\nMake transaction at a Bank.\nChange current active wallet at a toilet.",
 	"name_color" : "FFFFFF",
-	"background_color" : "CCCC00FF",
+	"background_color" : "DDA373",
 	"tradable" : true,
 	"marketable" : true,
-	"icon_url": "https://i.imgur.com/cgMTJI8.png",
-	"icon_url_large": "https://i.imgur.com/cgMTJI8.png",
+	"icon_url": "https://i.imgur.com/YHLnNJC.png",
+	"icon_url_large": "https://i.imgur.com/YHLnNJC.png",
 	"drop_interval" : 1,
 	"use_drop_window" : true,
 	"drop_window" : "1440",
-	"drop_max_per_window" : "1000",
-	"bundle" : "4003",
-	"tags" : "company:HAILINT"
+	"drop_max_per_window" : "1000"
 	}
 
 ]
