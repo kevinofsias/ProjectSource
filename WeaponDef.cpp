@@ -71,6 +71,20 @@
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/RCrOzn8.png",
 	"icon_url_large": "https://i.imgur.com/RCrOzn8.png"
+	},
+
+	{
+	"itemdefid" : 15005,
+	"type" : "item",
+	"display_type" : "Weapon",
+	"name" : "Pineapple Grenade (G2)",
+	"description" : "One time use",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/MxIx0q8.png",
+	"icon_url_large": "https://i.imgur.com/MxIx0q8.png"
 	}
 
 ]
