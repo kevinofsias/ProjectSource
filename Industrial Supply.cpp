@@ -866,7 +866,6 @@
 	{
 	"itemdefid" : 12043,
 	"type" : "item",
-	"promo" : "manual",
 	"display_type" : "Industrial Supply",
 	"name" : "Goods Mini Container",
 	"description" : "",
@@ -875,13 +874,121 @@
 	"tradable" : true,
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/bRlGhnE.png",
-	"icon_url_large": "https://i.imgur.com/bRlGhnE.png",
-	"drop_interval" : 1,
-	"use_drop_window" : true,
-	"drop_window" : "1440",
-	"drop_max_per_window" : "1000",
-	"tags":"industry:goods"
+	"icon_url_large": "https://i.imgur.com/bRlGhnE.png"
+	},
+
+	{
+	"itemdefid" : 12044,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Plastic Can",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/LBXUg3u.png",
+	"icon_url_large": "https://i.imgur.com/LBXUg3u.png"
+	},
+
+	{
+	"itemdefid" : 12045,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Metal Can",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/zICjVpq.png",
+	"icon_url_large": "https://i.imgur.com/zICjVpq.png"
+	},
+
+	{
+	"itemdefid" : 12046,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Barrel",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/iQJJSgx.png",
+	"icon_url_large": "https://i.imgur.com/iQJJSgx.png"
+	},
+
+	{
+	"itemdefid" : 12047,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Small Gas Tank",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/tYidIHv.png",
+	"icon_url_large": "https://i.imgur.com/tYidIHv.png"
+	},
+
+	{
+	"itemdefid" : 12048,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Gas Tank",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/1bOjUqt.png",
+	"icon_url_large": "https://i.imgur.com/1bOjUqt.png"
+	},
+
+	{
+	"itemdefid" : 12049,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Liquid Tank",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/9wRttsw.png",
+	"icon_url_large": "https://i.imgur.com/9wRttsw.png"
+	},
+
+	{
+	"itemdefid" : 12050,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Empty Goods Box",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/DfvB9SL.png",
+	"icon_url_large": "https://i.imgur.com/DfvB9SL.png"
+	},
+
+	{
+	"itemdefid" : 12051,
+	"type" : "item",
+	"display_type" : "Industrial Supply",
+	"name" : "Goods Box",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/7lfbL7E.png",
+	"icon_url_large": "https://i.imgur.com/7lfbL7E.png"
 	}
+
 
 ]
 
