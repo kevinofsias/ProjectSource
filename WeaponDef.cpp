@@ -85,6 +85,48 @@
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/MxIx0q8.png",
 	"icon_url_large": "https://i.imgur.com/MxIx0q8.png"
+	},
+
+	{
+	"itemdefid" : 15006,
+	"type" : "item",
+	"display_type" : "Weapon Accessories",
+	"name" : "ART47 Mag",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/LbwAGCe.png",
+	"icon_url_large": "https://i.imgur.com/LbwAGCe.png"
+	},
+
+	{
+	"itemdefid" : 15007,
+	"type" : "item",
+	"display_type" : "Weapon Accessories",
+	"name" : "ARP4 Mag",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/HDF0nSm.png",
+	"icon_url_large": "https://i.imgur.com/HDF0nSm.png"
+	},
+
+	{
+	"itemdefid" : 15008,
+	"type" : "item",
+	"display_type" : "Weapon Accessories",
+	"name" : "P45 Mag",
+	"description" : "",
+	"name_color" : "FFFFFF",
+	"background_color" : "DDA373",
+	"tradable" : true,
+	"marketable" : true,
+	"icon_url": "https://i.imgur.com/PlFI9jT.png",
+	"icon_url_large": "https://i.imgur.com/PlFI9jT.png"
 	}
 
 ]
