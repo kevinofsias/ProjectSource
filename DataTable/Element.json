@@ -1,0 +1,216 @@
+[
+	{
+		"Name": "steel",
+		"DisplayName": "Steel",
+		"Make": [
+			"1*out;1*iron;3*coal"
+		],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "iron",
+		"DisplayName": "Iron",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "coal",
+		"DisplayName": "Coal",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "brass",
+		"DisplayName": "Brass",
+		"Make": [
+			"1*out;2*copper;1*zinc"
+		],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "copper",
+		"DisplayName": "Copper",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "zinc",
+		"DisplayName": "ItemName",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "stainless",
+		"DisplayName": "Stainless Steel",
+		"Make": [
+			"1*out;5*steel;1*chromium"
+		],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "chromium",
+		"DisplayName": "Chromium",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "plastic",
+		"DisplayName": "Plastic",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "wood",
+		"DisplayName": "Wood",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "glass",
+		"DisplayName": "Glass",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "ceramic",
+		"DisplayName": "Ceramic",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "lead",
+		"DisplayName": "Lead",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "paper",
+		"DisplayName": "Paper",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "textile",
+		"DisplayName": "Textile",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "leather",
+		"DisplayName": "Leather",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "concrete",
+		"DisplayName": "Concrete",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "plasticbottle",
+		"DisplayName": "Plastic Bottle",
+		"Make": [
+			"10*out;5plastic"
+		],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "paperbox",
+		"DisplayName": "Paper Box",
+		"Make": [
+			"10*out;10*paper"
+		],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "craftingmagazine",
+		"DisplayName": "Craftman's Digest",
+		"Make": [],
+		"Break": [
+			"1*paper;"
+		],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	},
+	{
+		"Name": "ammobox45",
+		"DisplayName": "Ammo Box .45",
+		"Make": [
+			"1*out;50*ammo45;1*paperbox"
+		],
+		"Break": [],
+		"Used": [
+			"50*ammo45;1*paper"
+		],
+		"Weight": 100,
+		"SteamItemID": 16002
+	},
+	{
+		"Name": "ammo45",
+		"DisplayName": "Ammo .45",
+		"Make": [],
+		"Break": [],
+		"Used": [],
+		"Weight": 100,
+		"SteamItemID": 0
+	}
+]
