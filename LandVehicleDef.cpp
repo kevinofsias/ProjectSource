@@ -8,7 +8,7 @@
 	"type" : "item",
 	"display_type" : "Land Vehicle",
 	"name" : "People's Roadster",
-	"description" : "[color=yellow]Pre-order[/color]\nCome with Automatic Transmission",
+	"description" : "Come with Automatic Transmission",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
