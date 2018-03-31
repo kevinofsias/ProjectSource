@@ -70,11 +70,9 @@
 	"type" : "item",
 	"display_type" : "Miscellaneous",
 	"name" : "Company Share",
-	"description" : "[color=red]WARNING : Trading or Selling this item will erase all share informations stored in it.\nCannot use in SinglePlayer/Co-op Mode.[/color]\n[color=yellow]Hold shares of a specific company.[/color]\nMake transaction at Stock Market.",
+	"description" : "[color=red]Cannot use in SinglePlayer/Co-op Mode.[/color]\n[color=yellow]Hold shares of a specific company.[/color]\nMake transaction at Stock Market.",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
-	"tradable" : true,
-	"marketable" : true,
 	"icon_url": "https://i.imgur.com/cCxKodS.png",
 	"icon_url_large": "https://i.imgur.com/cCxKodS.png"
 	},
