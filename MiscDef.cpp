@@ -84,13 +84,12 @@
 	"type" : "item",
 	"display_type" : "Miscellaneous",
 	"name" : "Stang Wallet",
-	"description" : "[color=red]WARNING : Trading or Selling this item will erase all money informations stored in it.\nCannot use in SinglePlayer/Co-op Mode.[/color]\n[color=yellow]Can hold up to 1 Million Kattas to use in any regions.[/color]\nMake transaction at a Bank.\nChange current active wallet at a toilet.",
+	"description" : "[color=red]Cannot use in SinglePlayer/Co-op Mode.[/color]\n[color=yellow]Can hold up to 1 Million Kattas to use in any regions.[/color]\nMake transaction at a Bank.\nChange current active wallet at a toilet.",
 	"name_color" : "FFFFFF",
-	"background_color" : "DDA373",
-	"tradable" : true,
-	"marketable" : true,
+	"background_color" : "4E2C73",
 	"icon_url": "https://i.imgur.com/YHLnNJC.png",
-	"icon_url_large": "https://i.imgur.com/YHLnNJC.png"
+	"icon_url_large": "https://i.imgur.com/YHLnNJC.png",
+	"price_category" : "1;VLV1000"
 	},
 
 	{
