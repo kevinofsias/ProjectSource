@@ -349,8 +349,8 @@
 	"background_color" : "DDA373",
 	"tradable" : true,
 	"marketable" : true,
-	"icon_url": "https://i.imgur.com/FUptApo.png",
-	"icon_url_large": "https://i.imgur.com/FUptApo.png"
+	"icon_url": "https://i.imgur.com/Ne8lQiy.png",
+	"icon_url_large": "https://i.imgur.com/Ne8lQiy.png"
 	},
 
 	{
