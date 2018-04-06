@@ -117,7 +117,6 @@
 	"description" : "[color=white]Radioluminescence[/color]\nIt will illuminate after dusk.",
 	"name_color" : "FFFFFF",
 	"background_color" : "0062AFFF",
-	"tradable" : true,
 	"marketable" : true,
 	"Special" : true,
 	"icon_url": "https://i.imgur.com/BqGAtka.png",
