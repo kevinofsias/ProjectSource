@@ -326,7 +326,6 @@
 	{
 	"itemdefid" : 12016,
 	"type" : "item",
-	"promo" : "manual",
 	"display_type" : "Industrial Supply",
 	"name" : "Goods Container",
 	"description" : "",
@@ -336,10 +335,6 @@
 	"marketable" : true,
 	"icon_url": "https://i.imgur.com/SWB288p.png",
 	"icon_url_large": "https://i.imgur.com/SWB288p.png",
-	"drop_interval" : 1,
-	"use_drop_window" : true,
-	"drop_window" : "1440",
-	"drop_max_per_window" : "1000",
 	"tags":"industry:goods"
 	},
 
