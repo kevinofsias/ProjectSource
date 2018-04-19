@@ -743,7 +743,7 @@
 	"type" : "item",
 	"promo" : "manual",
 	"display_type" : "Industrial Supply",
-	"name" : "Grease",
+	"name" : "Grease (Can)",
 	"description" : "",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
