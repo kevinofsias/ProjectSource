@@ -63,7 +63,7 @@
 	"itemdefid" : 16004,
 	"type" : "item",
 	"display_type" : "Ammunition",
-	"name" : "Ammo Box Ammo Box Guage12",
+	"name" : "Ammo Box Gauge12",
 	"description" : "",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
