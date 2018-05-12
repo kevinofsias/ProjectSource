@@ -8,7 +8,7 @@
 	"type" : "item",
 	"display_type" : "Souvenir",
 	"name" : "Till I die",
-	"description" : "Once you already know wassup be smart and play dumb.",
+	"description" : "Once you already know wassup be smart and play dumb.\n \n \n[url]https://steamcommunity.com/groups/uwurevenge[/url]",
 	"tradable" : true,
 	"icon_url": "https://i.imgur.com/dSq0eHb.png",
 	"icon_url_large": "https://i.imgur.com/dSq0eHb.png"
