@@ -824,7 +824,7 @@
 	"promo" : "manual",
 	"display_type" : "Industrial Supply",
 	"name" : "Water (Gallon)",
-	"description" : "20",
+	"description" : "20 Litres",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
