@@ -744,7 +744,7 @@
 	"promo" : "manual",
 	"display_type" : "Industrial Supply",
 	"name" : "Grease (Can)",
-	"description" : "10 Litres",
+	"description" : "200 Litres",
 	"name_color" : "FFFFFF",
 	"background_color" : "DDA373",
 	"tradable" : true,
